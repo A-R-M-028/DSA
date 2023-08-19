@@ -1,0 +1,2 @@
+//THE FORMULA IS
+//(a*b)/GCD

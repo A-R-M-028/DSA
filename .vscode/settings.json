@@ -1,0 +1,21 @@
+
+{
+    "chatgpt.questions": true,
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp"
+    }
+}
+ 
